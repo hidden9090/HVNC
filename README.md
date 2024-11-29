@@ -32,4 +32,4 @@ Updates (New):
 Contact Me:
 
 
-Telegram: hidden9090
+Telegram: (https://t.me/hidden9090)
