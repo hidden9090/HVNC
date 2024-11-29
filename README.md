@@ -39,5 +39,3 @@ View Demo Video: https://vimeo.com/597459719
 # Contact Me:
 
 Telegram: (https://t.me/hidden9090)
-
-XMPP: melted@xmpp.jp
