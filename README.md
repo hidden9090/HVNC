@@ -19,7 +19,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
 - Enter the port to listen on in the Server's console when prompted.
 - When the Client is executed, it will open a new "Hidden Desktop" window. If you right-click on the white bar at the top of the "Hidden Desktop" window, you can view the available commands that you can run on the target machine.
 
-# Updates (New):
+# Updates (New): 
 
 - Fixed Browser Data Clone
 - Added "Start Powershell" Option
