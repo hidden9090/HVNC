@@ -4,7 +4,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
          
              
 # Features:    
-- Start Explorer (Hidden Desktop)
+- Start Explorer (Hidden Desktop) 
 - Open "Run"
 - Start Powershell
 - Start Chrome
