@@ -10,7 +10,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
 - Start Chrome
 - Start Edge
 - Start Brave
-- Start Firefox
+- Start Firefox   
 - Start Internet Explorer
 
 # Usage:
