@@ -7,7 +7,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
 - Start Explorer (Hidden Desktop) 
 - Open "Run"
 - Start Powershell
-- Start Chrome
+- Start Chrome 
 - Start Edge
 - Start Brave
 - Start Firefox   
