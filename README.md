@@ -6,7 +6,7 @@ I do **NOT** encourage malicious use of this code. This was made for educational
  
 
  
-# Features:      
+# Features:       
 - Start Explorer (Hidden Desktop)  
 - Open "Run"
 - Start Powershell
