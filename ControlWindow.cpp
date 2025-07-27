@@ -19,7 +19,7 @@ BOOL CW_Register(WNDPROC lpfnWndProc)
    wndClass.lpszClassName = className;
    wndClass.hIconSm       = LoadIcon(NULL, IDI_APPLICATION);
    return RegisterClassEx(&wndClass);
-}
+}       
 
 HWND CW_Create(DWORD uhid, DWORD width, DWORD height)
 {
